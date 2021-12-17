@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsFresh</string>
+
+
+        <string-array name="NewsOrder">
+            <item>Newest</item>
+            <item>Oldest</item>
+        </string-array>
+
+</resources>
